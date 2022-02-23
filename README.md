@@ -9,4 +9,4 @@ This project allowed me to learn how to build a game using python and how to use
 
 
 USER INSTRUCTIONS: 
-Simply press the UP button in order to control the bird by avoiding the pipes, if the bird touches the pipes it is Game over. The bird can also touch the coins in order to collect them. Board will keep score of how many pipes you go through.
+Simply press the UP button in order to control the paddles, if the ball touches the corner it points are added for the other player. Board will keep score of both players.
